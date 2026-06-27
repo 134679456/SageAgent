@@ -1,10 +1,12 @@
 # Ragent AI
-<p align="center"><strong>说明：本项目检索部分经过更新迭代，但该文档未更新</strong></p>
+
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17-ff7f2a.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.x-6db33f.svg)
 ![Milvus](https://img.shields.io/badge/Milvus-2.6.x-00b3ff.svg)
 <img src="https://img.shields.io/badge/React-18-61dafb.svg" alt="React" style="zoom:80%;" />
+
+<p align="center"><strong>说明：本项目检索部分经过更新迭代，但该文档未更新</strong></p>
 
 ## 项目介绍
 
