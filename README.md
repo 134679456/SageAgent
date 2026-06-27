@@ -1,4 +1,4 @@
-# Ragent AI
+<div style="text-align: center;"># Ragent AI</div>
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17-ff7f2a.svg)
